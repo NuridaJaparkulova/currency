@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  border: none;
+  background: none;
+}
+.App {
+  padding-bottom: 100px;
+}
+.active {
+  cursor: default;
+  border-bottom: 2px solid #06121f;
+}
+.container {
+  max-width: 1440px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.title {
+  text-align: center;
+  padding: 15px;
+}
+.up {
+  color: green;
+}
+
+.down {
+  color: red;
+}

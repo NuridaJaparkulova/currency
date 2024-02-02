@@ -1,0 +1,19 @@
+.converter {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+.button {
+    position: absolute;
+  top: 220px;
+}
+.arrowButton {
+    width: 30px;
+    height: 30px;
+}
